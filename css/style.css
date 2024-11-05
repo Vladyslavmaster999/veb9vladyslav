@@ -156,13 +156,13 @@ input, select, textarea, button {
 }
 
 .btn-red {
-    background-color: #d9534f !important; /* Червоний колір */
+    background-color: #dfed5c !important; /* Червоний колір */
     color: #fff !important; /* Білий колір тексту */
     border: none !important;
 }
 
 .btn-red:hover {
-    background-color: #c9302c !important; /* Темніший червоний при наведенні */
+    background-color: #2012a3 !important; /* Темніший червоний при наведенні */
 }
 
 
